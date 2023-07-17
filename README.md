@@ -133,9 +133,4 @@ A `Makefile` is provided for your convenience. It offers shortcuts to run the Bl
   ```shell
   make run-metastore
   ```
-
-## Testing
-
-On Gradescope, only a subset of test cases will be visible. We encourage you to create different scenarios, similar to the one described above, and test your implementation accordingly. Compare the outcome of your implementation to the expected output based on the theory provided in the writeup.
-
-Feel free to modify and enhance this README to provide more information about your specific implementation and any additional details you think would be helpful for others using
+  Feel free to modify and enhance this README to provide more information about your specific implementation and any additional details you think would be helpful for others using
